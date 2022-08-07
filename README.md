@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Two-Zer00/ecommerce-product-page-main)
+- Live Site URL: [Site](https://two-zer00.github.io/ecommerce-product-page-main/)
 
 ## My process
 
